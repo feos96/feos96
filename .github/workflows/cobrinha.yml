@@ -2,16 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas (sintaxe corrigida)
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
   workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    permissions:  # Adicione estas permissões
-      contents: write
-      pages: write
-      id-token: write
+    
+    # === SEÇÃO DE PERMISSÕES (ADICIONE AQUI) ===
+    permissions:
+      contents: write  # Permite escrever no repositório
+      pages: write     # Necessário para ghaction-github-pages
+      id-token: write  # Para autenticação
 
     steps:
       - name: Generate Snake
@@ -20,12 +22,9 @@ jobs:
         with:
           github_user_name: feos96
           svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif  # Opcional: gif animado
 
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3  # Versão atualizada
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
-          force_orphan: false

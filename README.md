@@ -1,4 +1,4 @@
-#### Eu sou o Erick, estudante de Engenharia de Controle e Automação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. 
+#### Iae Rapaziada!. 
 </div>
 <a href="https://github.com/feos96">
   <center>

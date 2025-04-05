@@ -1,4 +1,4 @@
-#### Iae Rapaziada!. 
+#### Iae Rapaziada!
 </div>
 <a href="https://github.com/feos96">
   <center>

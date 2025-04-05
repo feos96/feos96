@@ -1,31 +1,38 @@
-name: Generate Snake Animation
+name: Snake Animation Generator
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas (sintaxe corrigida)
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Roda a cada 12 horas (meia-noite e meio-dia UTC)
+  workflow_dispatch:         # Permite acionamento manual
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    permissions:  # Adicione estas permissões
-      contents: write
-      pages: write
-      id-token: write
+    permissions:
+      contents: write       # Para criar/atualizar arquivos
+      pages: write          # Para deploy no branch
+      id-token: write       # Autenticação
 
     steps:
-      - name: Generate Snake
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
         uses: Platane/snk@master
-        id: snake
+        id: generate-snake
         with:
-          github_user_name: feos96
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif  # Opcional: gif animado
+          github_user_name: feos96  # Substitua pelo seu username
+          svg_out_path: dist/snake.svg
+          gif_out_path: dist/snake.gif  # Versão animada (opcional)
+          # Personalização extra (opcional):
+          svg_fill_color: "#4B8BBE"     # Cor azul Python
+          svg_style: "width: 100%; height: auto;"
 
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3  # Versão atualizada
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-          force_orphan: false
+          target_branch: output      # Branch de destino
+          build_dir: dist           # Pasta com os arquivos
+          keep_history: false       # Mantém o branch limpo
+          force_orphan: true        # Sobrescreve o histórico
+          commit_message: "🔄 Update snake animation - $(date)"

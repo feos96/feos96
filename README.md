@@ -9,21 +9,9 @@ Aqui no meu GitHub tem:
 🐍 Automatizações com Python  
 🗺️ Geodados aplicados à logística e rotas  
 
-Curte dados e Python? Cola comigo!
+---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/erick-sousa-b4183a214/) | 📫 erickoliveira859@gmail.com
-
-</div>
-<a href="https://github.com/feos96">
-  <center>
-<table>
-    <tr>
-        <td>
-  <img height="180em" width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=feos96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-        <td><img height="180em" width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feos96&layout=compact&langs_count=7&theme=dracula"/></td>
-    </tr>   
-</table>
-</center>  
+### 🤖 Linguagens e Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -33,9 +21,21 @@ Curte dados e Python? Cola comigo!
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img align="center" alt="erick-Js" height="35" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-         
 
+### 📊 Estatísticas
    
+</div>
+<a href="https://github.com/feos96">
+  <center>
+<table>
+    <tr>
+        <td>
+  <img height="180em" width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=feos96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/></td>
+        <td><img height="180em" width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feos96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/></td>
+    </tr>   
+</table>
+</center>  
+
 ##
   
 <div> 

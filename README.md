@@ -2,13 +2,6 @@
 
 Sou desenvolvedor Python viciado em dados, café e resolver problemas na base do código (e uns bugs também 😅).Trabalho com análise de dados, machine learning e IA usando **Pandas**, **NumPy**, **TensorFlow** e **Jupyter Notebook**. Curioso por natureza, tô sempre testando algo novo.
 
-Aqui no meu GitHub tem:
-
-📊 Análises e visualizações de dados  
-🤖 Modelos de IA com TensorFlow  
-🐍 Automatizações com Python  
-🗺️ Geodados aplicados à logística e rotas  
-
 ---
 
 #### 🤖 Linguagens e Tecnologias

@@ -1,9 +1,6 @@
 ### 👋 Fala aí, eu sou o Erick!
-
-Sou desenvolvedor Python viciado em dados, café e resolver problemas na base do código (e uns bugs também 😅).Trabalho com análise de dados, machine learning e IA usando **Pandas**, **NumPy**, **TensorFlow** e **Jupyter Notebook**. Curioso por natureza, tô sempre testando algo novo.
-
+##### Sou desenvolvedor Python viciado em dados, café e resolver problemas na base do código (e uns bugs também 😅).Trabalho com análise de dados, machine learning e IA usando **Pandas**, **NumPy**, **TensorFlow** e **Jupyter Notebook**. Curioso por natureza, tô sempre testando algo novo.
 ---
-
 #### 🤖 Linguagens e Tecnologias
   
 <div style="display: inline_block"><br>

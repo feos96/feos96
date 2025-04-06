@@ -11,7 +11,7 @@ Aqui no meu GitHub tem:
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+#### 🤖 Linguagens e Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -22,7 +22,7 @@ Aqui no meu GitHub tem:
   <img align="center" alt="erick-Js" height="35" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
-### 📊 Estatísticas
+#### 📊 Estatísticas
    
 </div>
 <a href="https://github.com/feos96">
@@ -35,8 +35,6 @@ Aqui no meu GitHub tem:
     </tr>   
 </table>
 </center>  
-
-##
   
 <div> 
     <a href="https://instagram.com/erricksousa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

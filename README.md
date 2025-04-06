@@ -1,16 +1,17 @@
 ### 👋 Fala aí, eu sou o Erick!
 
-Sou desenvolvedor Python apaixonado por dados, café forte e resolver problemas com algumas linhas de código (ou várias, depende do bug 😅). 
+Sou desenvolvedor Python viciado em dados, café e resolver problemas na base do código (e uns bugs também 😅).
 
-Atualmente trabalho com análise de dados, machine learning e inteligência artificial, usando ferramentas como **Pandas**, **NumPy**, **TensorFlow** e o bom e velho **Jupyter Notebook**. Curioso por natureza, sempre tô testando alguma API nova, brincando com mapas ou tentando fazer o computador aprender alguma coisa.
+Trabalho com análise de dados, machine learning e IA usando **Pandas**, **NumPy**, **TensorFlow** e **Jupyter Notebook**. Curioso por natureza, tô sempre testando APIs, brincando com mapas ou treinando algum modelo.
 
-Aqui no meu GitHub você vai encontrar projetos que envolvem:
-- 📊 Análise e visualização de dados
-- 🤖 Explorando redes neurais, machine learning e deep learning com TensorFlow
-- 🐍 Automatizações com Python
-- 🗺️ Aplicações reais com dados geográficos e logística
+Aqui no meu GitHub tem:
 
-Curte dados, Python e umas ideias fora da curva? Me acompanha por aqui ou me chama pra trocar ideia!
+📊 Análises e visualizações de dados  
+🤖 Modelos de IA com TensorFlow  
+🐍 Automatizações com Python  
+🗺️ Geodados aplicados à logística e rotas  
+
+Curte dados e Python? Cola comigo!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/erick-sousa-b4183a214/) | 📫 erickoliveira859@gmail.com
 

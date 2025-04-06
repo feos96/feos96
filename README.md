@@ -1,4 +1,19 @@
-#### Iae Rapaziada!
+### 👋 Fala aí, eu sou o Erick!
+
+Sou desenvolvedor Python apaixonado por dados, café forte e resolver problemas com algumas linhas de código (ou várias, depende do bug 😅). 
+
+Atualmente trabalho com análise de dados, machine learning e inteligência artificial, usando ferramentas como **Pandas**, **NumPy**, **TensorFlow** e o bom e velho **Jupyter Notebook**. Curioso por natureza, sempre tô testando alguma API nova, brincando com mapas ou tentando fazer o computador aprender alguma coisa.
+
+Aqui no meu GitHub você vai encontrar projetos que envolvem:
+- 📊 Análise e visualização de dados
+- 🤖 Explorando redes neurais, machine learning e deep learning com TensorFlow
+- 🐍 Automatizações com Python
+- 🗺️ Aplicações reais com dados geográficos e logística
+
+Curte dados, Python e umas ideias fora da curva? Me acompanha por aqui ou me chama pra trocar ideia!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/erick-sousa-b4183a214/) | 📫 erickoliveira859@gmail.com
+
 </div>
 <a href="https://github.com/feos96">
   <center>

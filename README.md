@@ -17,11 +17,12 @@
 <table>
     <tr>
         <td>
-  <img height="180em" width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=feos96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/></td>
-        <td><img height="180em" width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feos96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/></td>
+  <img  height=230 align="center"src="https://github-readme-stats.vercel.app/api?username=feos96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/></td>
+        <td><img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feos96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/></td>
     </tr>   
 </table>
 </center>  
+
   
 <div> 
     <a href="https://instagram.com/erricksousa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

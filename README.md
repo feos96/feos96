@@ -8,6 +8,7 @@
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img align="center" alt="erick-Js" height="35" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
   <img align="center" alt="erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="erick-Js" height="35" width="40" src="https://img.icons8.com/ios/50/flask.png" />  
 
   --- 
   
